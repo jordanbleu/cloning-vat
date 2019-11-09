@@ -1,0 +1,10 @@
+C:\Users\JordanBleu\source\repos\Cloning-Vat\CloningVatApp\bin\Debug\CloningVatApp.exe.config
+C:\Users\JordanBleu\source\repos\Cloning-Vat\CloningVatApp\bin\Debug\CloningVatApp.exe
+C:\Users\JordanBleu\source\repos\Cloning-Vat\CloningVatApp\bin\Debug\CloningVatApp.pdb
+C:\Users\JordanBleu\source\repos\Cloning-Vat\CloningVatApp\bin\Debug\CloningVat.dll
+C:\Users\JordanBleu\source\repos\Cloning-Vat\CloningVatApp\bin\Debug\CloningVat.pdb
+C:\Users\JordanBleu\source\repos\Cloning-Vat\CloningVatApp\obj\Debug\CloningVatApp.csprojAssemblyReference.cache
+C:\Users\JordanBleu\source\repos\Cloning-Vat\CloningVatApp\obj\Debug\CloningVatApp.csproj.CoreCompileInputs.cache
+C:\Users\JordanBleu\source\repos\Cloning-Vat\CloningVatApp\obj\Debug\CloningVatApp.csproj.CopyComplete
+C:\Users\JordanBleu\source\repos\Cloning-Vat\CloningVatApp\obj\Debug\CloningVatApp.exe
+C:\Users\JordanBleu\source\repos\Cloning-Vat\CloningVatApp\obj\Debug\CloningVatApp.pdb

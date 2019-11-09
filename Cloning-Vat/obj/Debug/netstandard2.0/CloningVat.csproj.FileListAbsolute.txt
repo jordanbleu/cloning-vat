@@ -1,0 +1,8 @@
+C:\Users\JordanBleu\source\repos\Cloning-Vat\Cloning-Vat\bin\Debug\netstandard2.0\CloningVat.deps.json
+C:\Users\JordanBleu\source\repos\Cloning-Vat\Cloning-Vat\bin\Debug\netstandard2.0\CloningVat.dll
+C:\Users\JordanBleu\source\repos\Cloning-Vat\Cloning-Vat\bin\Debug\netstandard2.0\CloningVat.pdb
+C:\Users\JordanBleu\source\repos\Cloning-Vat\Cloning-Vat\obj\Debug\netstandard2.0\CloningVat.csproj.CoreCompileInputs.cache
+C:\Users\JordanBleu\source\repos\Cloning-Vat\Cloning-Vat\obj\Debug\netstandard2.0\CloningVat.AssemblyInfoInputs.cache
+C:\Users\JordanBleu\source\repos\Cloning-Vat\Cloning-Vat\obj\Debug\netstandard2.0\CloningVat.AssemblyInfo.cs
+C:\Users\JordanBleu\source\repos\Cloning-Vat\Cloning-Vat\obj\Debug\netstandard2.0\CloningVat.dll
+C:\Users\JordanBleu\source\repos\Cloning-Vat\Cloning-Vat\obj\Debug\netstandard2.0\CloningVat.pdb

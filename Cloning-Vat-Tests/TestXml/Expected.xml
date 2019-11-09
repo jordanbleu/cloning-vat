@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<Instructions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CloneTasks>
+    <From Path="C:\Blah\">
+      <Destinations>
+        <Into Path="C:\Taco\Bell\Cheesy\Gordita\Crunch" />
+        <Into Path="C:\Backup" />
+      </Destinations>
+    </From>
+    <From Path="C:\AnotherFolder">
+      <Destinations>
+        <Into Path="C:\Taco\Bell\Double\Chalupa" />
+        <Into Path="C:\A\B\C" />
+      </Destinations>
+    </From>
+  </CloneTasks>
+</Instructions>

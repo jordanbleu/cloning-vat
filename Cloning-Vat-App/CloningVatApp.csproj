@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Cloning_Vat_App</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="XML\example.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="XML\example.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cloning-Vat\CloningVat.csproj" />
+  </ItemGroup>
+
+</Project>
